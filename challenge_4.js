@@ -19,7 +19,7 @@ exports.largestPalindromeProduct = function(multiplicands, digits){
       var numberToString = product.toString();
       
       // //change string to array  //able to string functions in one line
-      // var numberToString_ar = numberToString.split("").reverse().join("");
+      // var numberToString_ar = numberToString.split("");
       
       // //reverse string
       // var reverseOfTheString = numberToString_ar.reverse();
